@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-afnetworking",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "A NativeScript plugin that wraps AFNetworking for iOS",
 	"main": "afnetworking.js",
 	"typescript": {
